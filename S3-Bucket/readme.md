@@ -46,8 +46,9 @@ image-upload-web-app/
 ```
 
 ## Important Note
--Generate a IAM User and create aws credentials access key for that user
--Provide S3 Bucket required permissions to that user
--Create S3 bucket and Enable ACls and Turn off/Uncheck Block Public Access
+
+-Generate a IAM User and create aws credentials access key for that user.
+-Provide S3 Bucket required permissions to that user.
+-Create S3 bucket and Enable ACls and Turn off/Uncheck Block Public Access.
 
 
